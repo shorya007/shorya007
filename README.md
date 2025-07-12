@@ -91,6 +91,8 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 ### 📈 GitHub Stats
 
 [![Shorya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shorya007&show_icons=true&theme=radical)](https://github.com/shorya007)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya007&layout=compact&theme=radical)](https://github.com/shorya007)
+
 
 
 ---
@@ -98,7 +100,6 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 ### 🔥 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imgovind95&theme=react&hide_border=false)](https://git.io/streak-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorya007&layout=compact&theme=radical)](https://github.com/shorya007)
 
 
 ---
