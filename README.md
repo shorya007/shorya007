@@ -90,8 +90,8 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 
 ### 📈 GitHub Stats
 
-![Govind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imgovind95&show_icons=true&theme=react&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imgovind95&layout=compact&theme=react&hide_border=false)
+[![Shorya’s GitHub stats](https://github-readme-stats.vercel.app/api?username=shorya007&show_icons=true&theme=radical)](https://github.com/shorya007)
+
 
 ---
 
