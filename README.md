@@ -40,7 +40,7 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 
 ---
 
-### 💬 Ask Me About
+
 ### 💬 Ask Me About  
 `JavaScript`, `React`, `Node.js`, `MongoDB`, `Git & GitHub`, `Firebase`, `Machine Learning`, `Deep Learning`, `NLP`, `Full-Stack Projects`
 
