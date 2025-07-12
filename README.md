@@ -36,13 +36,13 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 ---
 
 ### 📚 Currently Learning:  
-`Next.js`, `TypeScript`, `MongoDB`, `System Design`, `REST APIs`
+`Next.js`, `MongoDB`, `System Design`, `REST APIs`
 
 ---
 
 
 ### 💬 Ask Me About  
-`JavaScript`, `React`, `Node.js`, `MongoDB`, `Git & GitHub`, `Firebase`, `Machine Learning`, `Deep Learning`, `NLP`, `Full-Stack Projects`
+`JavaScript`, `React`, `Node.js`, `MongoDB`, `Git & GitHub`, `Machine Learning`, `Deep Learning`, `NLP`, `Full-Stack Projects`
 
 
 ---
