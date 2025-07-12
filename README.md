@@ -33,7 +33,7 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 ---
 
 ### 📚 Currently Learning:  
-Next.js, TypeScript, MongoDB, System Design, REST APIs
+`Next.js`, `TypeScript`, `MongoDB`, `System Design`, `REST APIs`
 
 ---
 
