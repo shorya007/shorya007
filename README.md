@@ -99,14 +99,14 @@ Tools & Platforms:  `Git`, `GitHub`, `VS Code`, `Postman`, `Vercel`
 
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imgovind95&theme=react&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shorya007&theme=react)](https://git.io/streak-stats)
 
 
 ---
 
 ### 👀 Visitor Count
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imgovind95)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=shorya007)
 
 ---
 
