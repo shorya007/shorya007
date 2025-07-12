@@ -14,8 +14,11 @@
 -->
 ### 💡 About Me
 
+### 💡 About Me
+
 🎓 B.Tech Final Year Student | AI&ML '26 at *Nitte Meenakshi Institute of Technology*, Bangalore  
-💻 Passionate about *Full-Stack Development* and solving real-world problems using modern tech  
+💻 Passionate about *Full-Stack Development*, *Machine Learning*, and solving real-world problems using modern tech  
+🧠 Enthusiastic about *Deep Learning*, *NLP*, and exploring intelligent systems  
 🚀 Always eager to learn and grow in the field of software engineering
 
 ---
